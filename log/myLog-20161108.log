@@ -1,0 +1,127 @@
+TRACE - 2016-11-08 02:39:12 **** END OF /index.php ****
+TRACE - 2016-11-08 02:39:16 **** END OF /index.php ****
+TRACE - 2016-11-08 02:39:18 **** END OF /index.php ****
+DEBUG - 2016-11-08 02:39:21 DB接続
+DEBUG - 2016-11-08 02:39:21 トランザクション
+DEBUG - 2016-11-08 02:39:21 SELECT `userId`, `password`, `displayName`, `email`, `token`, `loginFailureCount`, `loginFailureDatetime`, `deleteFlag` FROM `tbl_user` WHERE `email` = :email 
+DEBUG - 2016-11-08 02:39:21 shibuya@imagenious.co.jp
+DEBUG - 2016-11-08 02:39:22 コミット
+TRACE - 2016-11-08 02:39:22 **** END OF /index.php ****
+TRACE - 2016-11-08 02:39:22 ログイン成功
+TRACE - 2016-11-08 02:39:22 **** END OF /dashboard.php ****
+TRACE - 2016-11-08 02:39:30 **** END OF /index.php ****
+TRACE - 2016-11-08 02:39:59 **** END OF /index.php ****
+DEBUG - 2016-11-08 02:40:03 DB接続
+DEBUG - 2016-11-08 02:40:03 トランザクション
+DEBUG - 2016-11-08 02:40:03 SELECT `userId`, `password`, `displayName`, `email`, `token`, `loginFailureCount`, `loginFailureDatetime`, `deleteFlag` FROM `tbl_user` WHERE `email` = :email 
+DEBUG - 2016-11-08 02:40:03 shibuya@imagenious.co.jp
+DEBUG - 2016-11-08 02:40:03 コミット
+TRACE - 2016-11-08 02:40:03 **** END OF /index.php ****
+TRACE - 2016-11-08 02:40:03 ログイン成功
+TRACE - 2016-11-08 02:40:03 **** END OF /dashboard.php ****
+TRACE - 2016-11-08 02:40:08 **** END OF /index.php ****
+DEBUG - 2016-11-08 02:40:12 DB接続
+DEBUG - 2016-11-08 02:40:12 トランザクション
+DEBUG - 2016-11-08 02:40:12 SELECT `userId`, `password`, `displayName`, `email`, `token`, `loginFailureCount`, `loginFailureDatetime`, `deleteFlag` FROM `tbl_user` WHERE `email` = :email 
+DEBUG - 2016-11-08 02:40:12 admin
+DEBUG - 2016-11-08 02:40:12 UPDATE `tbl_user` SET `password` = :password , `displayName` = :displayName , `email` = :email , `token` = :token , `loginFailureCount` = :loginFailureCount , `loginFailureDatetime` = :loginFailureDatetime , `deleteFlag` = :deleteFlag WHERE `userId` = :userId 
+DEBUG - 2016-11-08 02:40:12 ,,,,,1,2016-11-08 02:40:12,
+DEBUG - 2016-11-08 02:40:12 コミット
+TRACE - 2016-11-08 02:40:12 **** END OF /index.php ****
+WARN - 2016-11-08 02:40:30 二重送信されたので処理を中断しました。
+TRACE - 2016-11-08 02:40:30 **** END OF /index.php ****
+WARN - 2016-11-08 02:40:33 二重送信されたので処理を中断しました。
+TRACE - 2016-11-08 02:40:33 **** END OF /index.php ****
+WARN - 2016-11-08 02:41:29 二重送信されたので処理を中断しました。
+TRACE - 2016-11-08 02:41:29 **** END OF /index.php ****
+DEBUG - 2016-11-08 02:41:34 DB接続
+DEBUG - 2016-11-08 02:41:34 トランザクション
+DEBUG - 2016-11-08 02:41:34 SELECT `userId`, `password`, `displayName`, `email`, `token`, `loginFailureCount`, `loginFailureDatetime`, `deleteFlag` FROM `tbl_user` WHERE `email` = :email 
+DEBUG - 2016-11-08 02:41:34 shibuya@imagenious.co.jp
+DEBUG - 2016-11-08 02:41:34 コミット
+TRACE - 2016-11-08 02:41:34 **** END OF /index.php ****
+TRACE - 2016-11-08 02:41:34 ログイン成功
+TRACE - 2016-11-08 02:41:34 **** END OF /dashboard.php ****
+TRACE - 2016-11-08 02:41:39 **** END OF /index.php ****
+TRACE - 2016-11-08 02:41:41 **** END OF /index.php ****
+TRACE - 2016-11-08 02:41:43 **** END OF /index.php ****
+DEBUG - 2016-11-08 02:41:47 DB接続
+DEBUG - 2016-11-08 02:41:47 トランザクション
+DEBUG - 2016-11-08 02:41:47 SELECT `userId`, `password`, `displayName`, `email`, `token`, `loginFailureCount`, `loginFailureDatetime`, `deleteFlag` FROM `tbl_user` WHERE `email` = :email 
+DEBUG - 2016-11-08 02:41:47 shibuya@imagenious.co.jp
+DEBUG - 2016-11-08 02:41:47 コミット
+TRACE - 2016-11-08 02:41:47 **** END OF /index.php ****
+TRACE - 2016-11-08 02:41:47 ログイン成功
+TRACE - 2016-11-08 02:41:47 **** END OF /dashboard.php ****
+TRACE - 2016-11-08 02:41:51 **** END OF /index.php ****
+DEBUG - 2016-11-08 02:46:46 DB接続
+DEBUG - 2016-11-08 02:46:46 トランザクション
+DEBUG - 2016-11-08 02:46:46 SELECT `userId`, `password`, `displayName`, `email`, `token`, `loginFailureCount`, `loginFailureDatetime`, `deleteFlag` FROM `tbl_user` WHERE `email` = :email 
+DEBUG - 2016-11-08 02:46:46 shibuya@imagenious.co.jp
+DEBUG - 2016-11-08 02:46:46 コミット
+TRACE - 2016-11-08 02:46:46 **** END OF /index.php ****
+TRACE - 2016-11-08 02:46:46 ログイン成功
+TRACE - 2016-11-08 02:46:46 **** END OF /dashboard.php ****
+TRACE - 2016-11-08 02:46:49 **** END OF /index.php ****
+TRACE - 2016-11-08 02:46:51 **** END OF /remind.php ****
+TRACE - 2016-11-08 02:46:54 **** END OF /index.php ****
+TRACE - 2016-11-08 02:46:55 **** END OF /index.php ****
+DEBUG - 2016-11-08 02:47:00 DB接続
+DEBUG - 2016-11-08 02:47:00 トランザクション
+DEBUG - 2016-11-08 02:47:00 SELECT `userId`, `password`, `displayName`, `email`, `token`, `loginFailureCount`, `loginFailureDatetime`, `deleteFlag` FROM `tbl_user` WHERE `email` = :email 
+DEBUG - 2016-11-08 02:47:00 shibuya@imagenious.co.jp
+DEBUG - 2016-11-08 02:47:00 コミット
+TRACE - 2016-11-08 02:47:00 **** END OF /index.php ****
+TRACE - 2016-11-08 02:47:00 ログイン成功
+TRACE - 2016-11-08 02:47:00 **** END OF /dashboard.php ****
+WARN - 2016-11-08 02:47:08 二重送信されたので処理を中断しました。
+TRACE - 2016-11-08 02:47:08 **** END OF /index.php ****
+TRACE - 2016-11-08 02:47:18 **** END OF /index.php ****
+TRACE - 2016-11-08 02:48:40 **** END OF /remind.php ****
+TRACE - 2016-11-08 02:48:48 **** END OF /index.php ****
+DEBUG - 2016-11-08 02:50:46 DB接続
+DEBUG - 2016-11-08 02:50:46 トランザクション
+DEBUG - 2016-11-08 02:50:46 SELECT `userId`, `password`, `displayName`, `email`, `token`, `loginFailureCount`, `loginFailureDatetime`, `deleteFlag` FROM `tbl_user` WHERE `email` = :email 
+DEBUG - 2016-11-08 02:50:46 shibuya@imagenious.co.jp
+DEBUG - 2016-11-08 02:50:46 コミット
+TRACE - 2016-11-08 02:50:46 **** END OF /index.php ****
+TRACE - 2016-11-08 02:50:46 ログイン成功
+TRACE - 2016-11-08 02:50:46 **** END OF /dashboard.php ****
+TRACE - 2016-11-08 02:50:48 **** END OF /index.php ****
+TRACE - 2016-11-08 02:50:51 **** END OF /index.php ****
+DEBUG - 2016-11-08 02:50:58 DB接続
+DEBUG - 2016-11-08 02:50:58 トランザクション
+DEBUG - 2016-11-08 02:50:58 SELECT `userId`, `password`, `displayName`, `email`, `token`, `loginFailureCount`, `loginFailureDatetime`, `deleteFlag` FROM `tbl_user` WHERE `email` = :email 
+DEBUG - 2016-11-08 02:50:58 shibuya@imagenious.co.jp
+DEBUG - 2016-11-08 02:50:59 コミット
+TRACE - 2016-11-08 02:50:59 **** END OF /index.php ****
+TRACE - 2016-11-08 02:50:59 ログイン成功
+TRACE - 2016-11-08 02:50:59 **** END OF /dashboard.php ****
+TRACE - 2016-11-08 02:51:05 **** END OF /index.php ****
+DEBUG - 2016-11-08 03:15:51 DB接続
+DEBUG - 2016-11-08 03:15:51 トランザクション
+DEBUG - 2016-11-08 03:15:51 SELECT `userId`, `password`, `displayName`, `email`, `token`, `loginFailureCount`, `loginFailureDatetime`, `deleteFlag` FROM `tbl_user` WHERE `email` = :email 
+DEBUG - 2016-11-08 03:15:51 shibuya@imagenious.co.jp
+DEBUG - 2016-11-08 03:15:51 コミット
+TRACE - 2016-11-08 03:15:51 **** END OF /index.php ****
+TRACE - 2016-11-08 03:15:51 ログイン成功
+TRACE - 2016-11-08 03:15:51 **** END OF /dashboard.php ****
+TRACE - 2016-11-08 03:15:53 **** END OF /index.php ****
+TRACE - 2016-11-08 03:15:54 **** END OF /index.php ****
+DEBUG - 2016-11-08 03:16:00 DB接続
+DEBUG - 2016-11-08 03:16:00 トランザクション
+DEBUG - 2016-11-08 03:16:00 SELECT `userId`, `password`, `displayName`, `email`, `token`, `loginFailureCount`, `loginFailureDatetime`, `deleteFlag` FROM `tbl_user` WHERE `email` = :email 
+DEBUG - 2016-11-08 03:16:00 admin
+DEBUG - 2016-11-08 03:16:00 UPDATE `tbl_user` SET `password` = :password , `displayName` = :displayName , `email` = :email , `token` = :token , `loginFailureCount` = :loginFailureCount , `loginFailureDatetime` = :loginFailureDatetime , `deleteFlag` = :deleteFlag WHERE `userId` = :userId 
+DEBUG - 2016-11-08 03:16:00 ,,,,,1,2016-11-08 03:16:00,
+DEBUG - 2016-11-08 03:16:00 コミット
+TRACE - 2016-11-08 03:16:00 **** END OF /index.php ****
+DEBUG - 2016-11-08 03:16:05 DB接続
+DEBUG - 2016-11-08 03:16:05 トランザクション
+DEBUG - 2016-11-08 03:16:05 SELECT `userId`, `password`, `displayName`, `email`, `token`, `loginFailureCount`, `loginFailureDatetime`, `deleteFlag` FROM `tbl_user` WHERE `email` = :email 
+DEBUG - 2016-11-08 03:16:05 shibuya@imagenious.co.jp
+DEBUG - 2016-11-08 03:16:05 コミット
+TRACE - 2016-11-08 03:16:05 **** END OF /index.php ****
+TRACE - 2016-11-08 03:16:05 ログイン成功
+TRACE - 2016-11-08 03:16:05 **** END OF /dashboard.php ****
+TRACE - 2016-11-08 03:16:09 **** END OF /index.php ****

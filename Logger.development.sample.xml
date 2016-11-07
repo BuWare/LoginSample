@@ -1,0 +1,11 @@
+<configuration xmlns="http://logging.apache.org/log4php/">
+	<appender name="myAppender" class="LoggerAppenderDailyFile">
+		<layout class="LoggerLayoutSimple" />
+		<param name="file" value="{プルパス}/LoginSample/log/myLog-%s.log" />
+		<param name="datePattern" value="Ymd" />
+	</appender>
+	<root>
+		<level value="TRACE" />
+		<appender_ref ref="myAppender" />
+	</root>
+</configuration>
